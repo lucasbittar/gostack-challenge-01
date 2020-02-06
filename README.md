@@ -14,10 +14,11 @@ Build a simple application that stores projects and tasks within.
 ```
 yarn install && yarn dev
 ```
-Once yarn is running, all of the request should point to: http://localhost:3001/.
+Once yarn is running, all of the requests should point to: http://localhost:3001/.
 
 ### Description ###
 A quick and simple project to explore a few basic NodeJS concepts like create, fetch, edit and delete items.
+
 Tools and technology used on this project:
 
 - Javascript ES6
